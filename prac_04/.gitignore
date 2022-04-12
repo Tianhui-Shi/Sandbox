@@ -1,0 +1,9 @@
+.idea/
+.DS_Store
+*/__pycache__
+prac_02/*.txt
+prac_09/Lyrics/
+prac_09/FilesToSort/
+temp.py
+/prac_04/
+/prac_04/
